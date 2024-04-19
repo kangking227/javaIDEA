@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7425ce9-490c-4ca6-89a8-7525178ca175" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bendi" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/april.day01/Supermarket.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dDR0Fao4SpCiN3ts8h4HgpPQEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/javaIDEA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.GWDYC.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.Supermarket.executor": "Run",
+    "应用程序.april.day01.Supermarket.executor": "Run",
+    "应用程序.book41.executor": "Run",
+    "应用程序.box.executor": "Run",
+    "应用程序.compute.executor": "Run",
+    "应用程序.diaaa.executor": "Run",
+    "应用程序.fc.executor": "Run",
+    "应用程序.fc3.executor": "Run",
+    "应用程序.guessnumber.executor": "Run",
+    "应用程序.java.executor": "Run",
+    "应用程序.marketjava2.Supermarket.executor": "Run",
+    "应用程序.maxrate.executor": "Run",
+    "应用程序.ssu.executor": "Run",
+    "应用程序.sxhs.executor": "Run",
+    "应用程序.test.executor": "Run",
+    "应用程序.text.executor": "Run",
+    "应用程序.yz.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.april.day01.Supermarket">
+    <configuration name="Supermarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="market.market" />
+      <module name="javaIDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="april.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="april.day01.Supermarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="april.day01.Supermarket" />
+      <module name="javaIDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="april.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guessnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guessnumber" />
+      <module name="javaIDEA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="marketjava2.Supermarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="marketjava2.Supermarket" />
+      <module name="javaIDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="marketjava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="marketjava2.test" />
+      <module name="javaIDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="marketjava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.april.day01.Supermarket" />
+        <item itemvalue="应用程序.marketjava2.Supermarket" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.Supermarket" />
+        <item itemvalue="应用程序.guessnumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.16-jbr_dcevm-11.0.16-4caba194b151-788636e5" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7425ce9-490c-4ca6-89a8-7525178ca175" name="Default Changelist" comment="" />
+      <created>1709540441865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709540441865</updated>
+      <workItem from="1709540442969" duration="144000" />
+      <workItem from="1709791777581" duration="101000" />
+      <workItem from="1709793147248" duration="338000" />
+      <workItem from="1709811458610" duration="1832000" />
+      <workItem from="1709813325819" duration="358000" />
+      <workItem from="1709813698793" duration="131000" />
+      <workItem from="1709815355811" duration="9000" />
+      <workItem from="1709815465371" duration="103000" />
+      <workItem from="1709815584518" duration="206000" />
+      <workItem from="1709815827342" duration="108000" />
+      <workItem from="1709819040434" duration="488000" />
+      <workItem from="1709819542737" duration="13000" />
+      <workItem from="1709819685298" duration="30000" />
+      <workItem from="1709819752456" duration="11000" />
+      <workItem from="1709819769235" duration="9000" />
+      <workItem from="1709819804972" duration="31000" />
+      <workItem from="1709820322962" duration="455000" />
+      <workItem from="1709987132420" duration="1094000" />
+      <workItem from="1710077824788" duration="2366000" />
+      <workItem from="1710080684783" duration="53000" />
+      <workItem from="1710400796346" duration="943000" />
+      <workItem from="1710728876692" duration="4497000" />
+      <workItem from="1710815345546" duration="4215000" />
+      <workItem from="1711000885176" duration="5845000" />
+      <workItem from="1711333502631" duration="3594000" />
+      <workItem from="1711605701137" duration="257000" />
+      <workItem from="1711605977281" duration="66000" />
+      <workItem from="1711606055613" duration="17000" />
+      <workItem from="1711606104627" duration="143000" />
+      <workItem from="1711606260752" duration="129000" />
+      <workItem from="1711606399377" duration="291000" />
+      <workItem from="1711606701202" duration="3310000" />
+      <workItem from="1711938679182" duration="295000" />
+      <workItem from="1711939131442" duration="1552000" />
+      <workItem from="1711980925022" duration="25000" />
+      <workItem from="1711981113516" duration="278000" />
+      <workItem from="1712543311688" duration="2891000" />
+      <workItem from="1712573266260" duration="2873000" />
+      <workItem from="1712754000728" duration="1236000" />
+      <workItem from="1712755628963" duration="10000" />
+      <workItem from="1712755659712" duration="1267000" />
+      <workItem from="1712815734653" duration="2663000" />
+      <workItem from="1712826379726" duration="2000" />
+      <workItem from="1713148023386" duration="4843000" />
+      <workItem from="1713234343001" duration="14000" />
+      <workItem from="1713420546076" duration="4250000" />
+      <workItem from="1713531453830" duration="58000" />
+      <workItem from="1713531559574" duration="35000" />
+      <workItem from="1713531745272" duration="504000" />
+      <workItem from="1713532342752" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaIDEA$Main.ic" NAME="Main Coverage Results" MODIFIED="1709540480000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
